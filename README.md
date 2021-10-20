@@ -6,6 +6,7 @@ Software Developer and lifelong lover of the arts.
 
 
 😄 Pronouns: he/him/his
+
 🌱 I’m currently learning 
 
 
