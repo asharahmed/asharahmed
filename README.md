@@ -14,7 +14,7 @@
 
 📫 How to reach me: [email me!](mailto:ashar@aahmed.ca)
 
-😄 Pronouns: he/him/his
+😄 Pronouns: he/him, il/lui
 <!--
 **asharahmed/asharahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
