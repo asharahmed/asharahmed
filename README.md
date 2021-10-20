@@ -6,7 +6,7 @@
   </p>
 </p>
 
-🔭  I’m a full-stack developer currently interested in back-end development.
+🔭  I’m a full-stack developer currently interested in back-end development and systems design.
 
 💬 Ask me about inclusive delivery, accessible standards.
 
