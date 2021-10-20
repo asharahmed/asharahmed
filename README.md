@@ -3,9 +3,9 @@
   <h1 align="center">👋 Hi, I'm Ashar</h1>
   
   <p align="center">
-    &middot; 
-    <a href="https://static.justinoboyle.com/resume.pdf"><strong>Resume</strong></a> &middot; 
-    <a href="https://linkedin.com/in/justinoboyle"><strong>LinkedIn</strong></a>
+    
+    <a href="https://github.com/asharahmed/asharahmed/blob/41e0614f32821c9171840eacf3e1c83278a85b84/My_Resume-13.pdf"><strong>Resume</strong></a> &middot; 
+    <a href="https://www.linkedin.com/in/asharsahmed/"><strong>LinkedIn</strong></a>
   </p>
 </p>
 
