@@ -6,7 +6,9 @@
   </p>
 </p>
 🔭  I’m currently working on full-stack web development.
+
 💬 Ask me about inclusive delivery, accessible standards.
+
 📫 How to reach me: [email me!](mailto:ashar@aahmed.ca)
 
 <!--
