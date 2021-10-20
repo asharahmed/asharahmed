@@ -1,14 +1,13 @@
-## Hi there 👋
-
-I'm Ashar.
-
-Software Developer and lifelong lover of the arts.
-
-
-😄 Pronouns: he/him/his
-
-🌱 I’m currently learning 
-
+<br />
+<p align="center">
+  <h1 align="center">👋 Hi, I'm Ashar</h1>
+  
+  <p align="center">
+    &middot; 
+    <a href="https://static.justinoboyle.com/resume.pdf"><strong>Resume</strong></a> &middot; 
+    <a href="https://linkedin.com/in/justinoboyle"><strong>LinkedIn</strong></a>
+  </p>
+</p>
 
 
 <!--
