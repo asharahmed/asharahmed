@@ -6,9 +6,11 @@
   </p>
 </p>
 
-🔭  I’m currently working on full-stack web development.
+🔭  I’m a full-stack developer currently interested in back-end development.
 
 💬 Ask me about inclusive delivery, accessible standards.
+
+🤔 I’m looking for mentorship on front-end software development!
 
 📫 How to reach me: [email me!](mailto:ashar@aahmed.ca)
 
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 - 
 -
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 
 - 
 -
 - 
