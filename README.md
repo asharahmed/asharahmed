@@ -17,6 +17,8 @@
 😄 Pronouns: he/him, il/lui
 
 ⬅️ Some of my old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr)
+
+⏪ Previously @nrc-cnrc, @esdc-edsc
 <!--
 **asharahmed/asharahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
