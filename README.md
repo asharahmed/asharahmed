@@ -10,7 +10,7 @@
 
 💬 Ask me about inclusive delivery and accessible standards.
 
-⏩ Development at @cds_ca
+⏩ Development at [@cds-snc](https://github.com/cds-snc)
 
 🤔 I’m looking for mentorship on front-end software development!
 
