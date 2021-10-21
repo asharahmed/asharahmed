@@ -6,7 +6,7 @@
   </p>
 </p>
 
-🔭  I’m a full-stack developer [@ised-isde](https://github.com/nrc-cnrc) currently interested in back-end development and systems design.
+🔭  I’m a full-stack developer [@ised-isde](https://github.com/ised-isde) currently interested in back-end development and systems design.
 
 💬 Ask me about inclusive, accessible delivery, accessible standards.
 
