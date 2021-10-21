@@ -15,6 +15,8 @@
 📫 How to reach me: [email me!](mailto:ashar@aahmed.ca)
 
 😄 Pronouns: he/him, il/lui
+
+⬅️ My old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr)
 <!--
 **asharahmed/asharahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
