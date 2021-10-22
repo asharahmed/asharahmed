@@ -8,7 +8,7 @@
 
 🔭  I’m a full-stack developer [@ised-isde-canada](https://github.com/ised-isde-canada) currently interested in back-end development and systems design.
 
-💬 Ask me about inclusive delivery, accessible standards or the best place to get a coffee!
+💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!
 
 ⏩ Development at [@cds-snc](https://github.com/cds-snc)
 
