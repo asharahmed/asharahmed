@@ -12,7 +12,7 @@
 
 ⏩ Development at [@cds-snc](https://github.com/cds-snc)
 
-🤔 I’m looking for mentorship on front-end software development!
+🤔 I’m looking for mentorship on modern front-end software development and frameworks!
 
 📫 How to reach me: [email me!](mailto:ashar@aahmed.ca)
 
