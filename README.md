@@ -6,7 +6,7 @@
   </p>
 </p>
 
-🔭  I’m a full-stack developer [@ised-isde-canada](https://github.com/ised-isde-canada) currently interested in back-end development, systems design, and SRE.
+🔭  I’m a full-stack developer [@ised-isde-canada](https://github.com/ised-isde-canada) currently interested in back-end development, systems design, and SRE practices.
 
 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!
 
