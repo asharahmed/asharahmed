@@ -6,7 +6,7 @@
   </p>
 </p>
 
-🔭  I’m a full-stack developer serving as a CRE / Support Developer [@cds-snc](https://github.com/cds-snc), currently interested in back-end development, systems design, and SRE practices.
+🔭  I’m a full-stack developer serving as a Support Developer [@cds-snc](https://github.com/cds-snc), currently interested in back-end development, systems design, and SRE practices.
 
 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!
 
