@@ -2,7 +2,7 @@
   <h1 align="center">👋 Hi, I'm Ashar</h1>
   <p align="center">
   
-    <a href="https://www.linkedin.com/in/asharsahmed/"><strong>&middot;LinkedIn&middot;</strong></a>
+    <a href="https://www.linkedin.com/in/asharsahmed/">&middot;<strong>LinkedIn</strong>&middot;</a>
   </p>
 </p>
 
