@@ -11,7 +11,7 @@
 
 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!
 
-🤔 I’m looking for mentorship on modern front-end software development and frameworks!
+🤔 I’m looking for mentorship on modern software development and frameworks!
 
 📫 How to reach me: [email me!](mailto:ashar@aahmed.ca)
 
