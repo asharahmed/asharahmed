@@ -7,7 +7,7 @@
   </p>
 </p>
 
-🔭  I’m a software developer serving as a Support Developer [@cds-snc](https://github.com/cds-snc), currently interested in back-end development, systems design, and SRE practices.
+🔭  I’m a software developer serving as a Support Developer [@cds-snc](https://github.com/cds-snc), interested in back-end development, systems design, and SRE practices.
 
 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!
 
