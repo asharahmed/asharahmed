@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">👋 Hi, I'm Ashar</h1>
+  <h1 align="center">👋🏼 Hi, I'm Ashar</h1>
   <p align="center">
   &middot;
     <a href="https://www.linkedin.com/in/asharsahmed/"><strong>LinkedIn</strong></a>
