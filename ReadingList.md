@@ -11,6 +11,8 @@
   <br><br>
   This is an incomplete list of books I am currently reading, either for work or personally.
   
+  <b>NOTE:</b> Most of these links are Canadian Indigo links or direct from the author. 
+  
   <h2>For Work: </h2>
   <ul>
   <li><a href="https://www.smashingmagazine.com/printed-books/form-design-patterns/">Form Design Patterns</a> by Adam Silver</li>
