@@ -6,8 +6,14 @@
   &middot;
   </p>
   📖 Welcome to my reading list! 
-  <br>
+  <br><br>
   This is an incomplete list of books I am currently reading, either for work or personally.
+  
+  <h2>For Work: </h2>
+  <ul>
+  <li></li>
+  
+  </ul>
 
   
 </p>
