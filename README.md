@@ -4,6 +4,8 @@
   &middot;
     <a href="https://www.linkedin.com/in/asharsahmed/"><strong>LinkedIn</strong></a>
   &middot;
+    <a href="https://github.com/asharahmed/asharahmed/blob/main/ReadingList.md"><strong>Reading List</strong></a>
+  &middot;
   </p>
 </p>
 
