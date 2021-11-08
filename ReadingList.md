@@ -19,6 +19,7 @@
   <li><a href="https://sre.google/books/">Site Reliability Engineering: How Google Runs Production Systems</a> by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy</li>
   <li><a href="https://cydharrell.com/book/">A Civic Technologist's Practice Guide</a> by Cyd Harrell</li>
   <li><a href="https://www.chapters.indigo.ca/en-ca/books/infrastructure-as-code/9781098114671-item.html">Infrastructure as Code, 2nd Edition</a> by Kief Morris</li>
+  <li><a href="https://www.oreilly.com/library/view/seeking-sre/9781491978856/">Seeking SRE</a> by David N. Blank-Edelman</li>
   </ul>
   
    <h2>Personally: </h2>
