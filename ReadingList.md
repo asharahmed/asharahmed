@@ -13,7 +13,7 @@
   <br><br>
   <b>Note:</b> Most of these links are Indigo (Canada) links or direct from the author, where possible. 
   
-  <h2>For Work: </h2>
+  <h2>Work: </h2>
   <ul>
   <li><a href="https://www.smashingmagazine.com/printed-books/form-design-patterns/">Form Design Patterns</a> by Adam Silver</li>
   <li><a href="https://sre.google/books/">Site Reliability Engineering: How Google Runs Production Systems</a> by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy</li>
