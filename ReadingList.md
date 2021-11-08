@@ -11,7 +11,7 @@
   <br><br>
   This is an incomplete list of books I am currently reading, either for work or personally.
   <br><br>
-  <b>Note:</b> Most of these links are Indigo (Canada) links or direct from the author. 
+  <b>Note:</b> Most of these links are Indigo (Canada) links or direct from the author, where possible. 
   
   <h2>For Work: </h2>
   <ul>
