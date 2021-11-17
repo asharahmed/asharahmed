@@ -26,7 +26,7 @@
    <ul>
    <li><a href="https://www.chapters.indigo.ca/en-ca/books/algorithms-to-live-by-the/9780143191612-item.html">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian and Tom Griffiths</li>
    <li><a href="https://www.chapters.indigo.ca/en-ca/books/strong-towns-a-bottom-up/9781119564812-item.html">Strong Towns: A Bottom-Up Revolution to Build American Prosperity</a> by Charles Marohn</li>
-  <li><a href="https://www.chapters.indigo.ca/en-ca/books/what-if-serious-scientific-answers/9780544272996-item.html">What If?: Serious Scientific Answers to Absurd Hypothetical Questions</a> by Randall Munroe</li>
+  <li><a href="https://www.chapters.indigo.ca/en-ca/books/thinking-fast-and-slow/9780385676533-item.html">Thinking Fast and Slow</a> by Daniel Kahneman</li>
   </ul>
 
   
