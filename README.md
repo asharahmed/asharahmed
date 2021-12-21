@@ -9,7 +9,7 @@
   </p>
 </p>
 
-🔭  I’m a support software developer [@cds-snc](https://github.com/cds-snc), interested in infrastructure development, systems design, and SRE.
+🔭  I’m an associate software developer [@cds-snc](https://github.com/cds-snc), interested in infrastructure development, systems design, and SRE.
 
 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!
 
