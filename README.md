@@ -6,6 +6,8 @@
   &middot;
     <a href="https://github.com/asharahmed/asharahmed/blob/main/ReadingList.md"><strong>Reading List</strong></a>
   &middot;
+  <a href="https://blog.aahmed.ca"><strong>The Blog</strong></a>
+  &middot;
   </p>
 </p>
 
