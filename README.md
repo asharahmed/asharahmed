@@ -23,7 +23,7 @@
 
 ⬅️ Some of my old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr) @ Hack the North 2017
 
-⏪ Previously [@ised-isde](https://github.com/ised-isde-canada), [@nrc-cnrc](https://github.com/nrc-cnrc), [@esdc-edsc](https://github.com/esdc-edsc)
+⏪ Previously [@cds-snc](https://github.com/cds-snc), [@ised-isde](https://github.com/ised-isde-canada), [@nrc-cnrc](https://github.com/nrc-cnrc), [@esdc-edsc](https://github.com/esdc-edsc)
 <!--
 **asharahmed/asharahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
