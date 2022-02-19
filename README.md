@@ -11,7 +11,7 @@
   </p>
 </p>
 
-🔭  I’m a developer, currently interested in infrastructure development, systems design, and SRE.
+🔭  I’m a developer, currently interested in cloud-native development, systems design, and a11y practices.
 
 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!
 
