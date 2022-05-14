@@ -13,7 +13,7 @@
   <br><br>
   <b>Note:</b> Most of these links are Indigo (Canada) links or direct from the author, where possible. 
   
-  <h2>Work: </h2>
+  <h2>For Edu / Work: </h2>
   <ul>
   <li><a href="https://www.smashingmagazine.com/printed-books/form-design-patterns/">Form Design Patterns</a> by Adam Silver</li>
   <li><a href="https://www.oreilly.com/library/view/seeking-sre/9781491978856/">Seeking SRE</a> by David N. Blank-Edelman</li>
