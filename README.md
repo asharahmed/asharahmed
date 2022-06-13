@@ -11,7 +11,7 @@
   </p>
 </p>
 
-🔭  I’m a developer and CS student at <a href="dal.ca">Dalhousie University</a>, currently interested in cloud-native development, systems design, and a11y practices.
+🔭  I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a>, currently interested in cloud-native development, systems design, and a11y practices.
 
 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!
 
