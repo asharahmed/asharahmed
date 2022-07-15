@@ -13,9 +13,9 @@
   <br><br>
   <b>Note:</b> Most of these links are Indigo (Canada) links or direct from the author, where possible. 
   
-  <h2>For Edu / Work: </h2>
+  <h2>For EDU / Work: </h2>
   <ul>
-  <li><a href="https://www.smashingmagazine.com/printed-books/form-design-patterns/">Form Design Patterns</a> by Adam Silver</li>
+  <li><a href="https://www.ubcpress.ca/opening-the-government-of-canada">Opening the Government of Canada</a> by Amanda Clarke</li>
   <li><a href="https://www.oreilly.com/library/view/seeking-sre/9781491978856/">Seeking SRE</a> by David N. Blank-Edelman</li>
   <li><a href="https://sre.google/books/">Site Reliability Engineering: How Google Runs Production Systems</a> by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy</li>
   <li><a href="https://www.chapters.indigo.ca/en-ca/books/kill-it-with-fire-manage/9781718501195-item.html">Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)</a> by Marianne Bellotti</li>
