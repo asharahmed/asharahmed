@@ -17,7 +17,7 @@
 
 🤔 I’m looking for mentorship on modern cloud-native development and frameworks!
 
-📫 How to reach me: [email me!](mailto:ashar@aahmed.ca)
+📫 How to reach me: [email me!](mailto:ashar@dal.ca)
 
 😄 Pronouns: he/him, il/lui
 
