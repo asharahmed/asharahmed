@@ -21,6 +21,7 @@
  📫 How to reach me: [email me!](mailto:ashar@dal.ca)       
  
  😄 Pronouns: he/him, il/lui   
+  
  <p>
  ⬅️ Some of my old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr) @ Hack the North 2017        
  
