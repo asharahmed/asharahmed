@@ -15,7 +15,7 @@
 &middot; 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops! <br>
 &middot; 🤔 I’m looking for mentorship on modern cloud-native development and frameworks! <br>
 &middot; 📫 How to reach me: [email me!](mailto:ashar@dal.ca) <br>
-&middot; 😄 Pronouns: he/him, il/lui <br>  
+&middot; 😄 Pronouns: he/him, il/lui <br>
 &middot; ⬅️ Some of my old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr) @ Hack the North 2017 <br>
 &middot; ⏪ Previously [@cds-snc](https://github.com/cds-snc), [@ised-isde](https://github.com/ised-isde-canada), [@nrc-cnrc](https://github.com/nrc-cnrc), [@esdc-edsc](https://github.com/esdc-edsc) <br>
 <!--
