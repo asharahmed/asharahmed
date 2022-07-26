@@ -1,14 +1,6 @@
 <p align="center">
   <h1 align="center">👋🏽 Hello, I'm Ashar</h1>
-  <p align="center">
-  &middot;
-    <a href="https://www.linkedin.com/in/asharsahmed/"><strong>LinkedIn</strong></a>
-  &middot;
-    <a href="https://github.com/asharahmed/asharahmed/blob/main/ReadingList.md"><strong>Reading List</strong></a>
-  &middot;
-  <a href="https://blog.aahmed.ca/posts/"><strong>Blog</strong></a>
-  &middot;
-  </p>
+  
 </p>
 
  🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a>, currently interested in cloud-native development, systems design, and a11y practices.        
