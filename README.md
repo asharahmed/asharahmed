@@ -21,9 +21,11 @@
  
  😄 Pronouns: he/him, il/lui        
  <p>
+   
  ⬅️ Some of my old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr) @ Hack the North 2017        
  
- ⏪ Previously [@cds-snc](https://github.com/cds-snc), [@ised-isde](https://github.com/ised-isde-canada), [@nrc-cnrc](https://github.com/nrc-cnrc), [@esdc-edsc](https://github.com/esdc-edsc)   
+ ⏪ Previously [@cds-snc](https://github.com/cds-snc), [@ised-isde](https://github.com/ised-isde-canada), [@nrc-cnrc](https://github.com/nrc-cnrc), [@esdc-edsc](https://github.com/esdc-edsc) 
+   
    </p>
  </p>
 <!--
