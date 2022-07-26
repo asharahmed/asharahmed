@@ -11,13 +11,13 @@
   </p>
 </p>
 
-<h2> 🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a>, currently interested in cloud-native development, systems design, and a11y practices.</h2>
-<h2> 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!</h2>
-<h2> 🤔 I’m looking for mentorship on modern cloud-native development and frameworks!</h2>
-<h2> 📫 How to reach me: [email me!](mailto:ashar@dal.ca)</h2>
-<h2> 😄 Pronouns: he/him, il/lui</h2>
-<h2> ⬅️Some of my old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr) @ Hack the North 2017</h2>
-<h2> ⏪Previously [@cds-snc](https://github.com/cds-snc), [@ised-isde](https://github.com/ised-isde-canada), [@nrc-cnrc](https://github.com/nrc-cnrc), [@esdc-edsc](https://github.com/esdc-edsc)</h2>
+- 🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a>, currently interested in cloud-native development, systems design, and a11y practices.
+- 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!</h2>
+- 🤔 I’m looking for mentorship on modern cloud-native development and frameworks!</h2>
+- 📫 How to reach me: [email me!](mailto:ashar@dal.ca)</h2>
+- 😄 Pronouns: he/him, il/lui</h2>
+- ⬅️ Some of my old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr) @ Hack the North 2017
+- ⏪ Previously [@cds-snc](https://github.com/cds-snc), [@ised-isde](https://github.com/ised-isde-canada), [@nrc-cnrc](https://github.com/nrc-cnrc), [@esdc-edsc](https://github.com/esdc-edsc)
  
 <!--
 **asharahmed/asharahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
