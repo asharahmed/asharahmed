@@ -14,9 +14,8 @@
  <br> 🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a>, currently interested in cloud-native development, systems design, and a11y practices.  
  <br> 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!    
  <br> 🤔 I’m looking for mentorship on modern cloud-native development and frameworks!    
-  <br> 📫 How to reach me: [email me!](mailto:ashar@dal.ca)    
+ <br> 📫 How to reach me: [email me!](mailto:ashar@dal.ca)    
  <br> 😄 Pronouns: he/him, il/lui     
-
  <br> ⬅️ Some of my old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr) @ Hack the North 2017 
  <br> ⏪ Previously [@cds-snc](https://github.com/cds-snc), [@ised-isde](https://github.com/ised-isde-canada), [@nrc-cnrc](https://github.com/nrc-cnrc), [@esdc-edsc](https://github.com/esdc-edsc) 
 <!--
