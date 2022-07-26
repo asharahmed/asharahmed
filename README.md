@@ -11,11 +11,11 @@
   </p>
 </p>
 
- &middot; 🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a>, currently interested in cloud-native development, systems design, and a11y practices. 
- &middot; 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops! 
- &middot; 🤔 I’m looking for mentorship on modern cloud-native development and frameworks! 
- &middot; 📫 How to reach me: [email me!](mailto:ashar@dal.ca) 
- &middot; 😄 Pronouns: he/him, il/lui
+ &middot; 🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a>, currently interested in cloud-native development, systems design, and a11y practices.   
+ &middot; 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!    
+ &middot; 🤔 I’m looking for mentorship on modern cloud-native development and frameworks!    
+ &middot; 📫 How to reach me: [email me!](mailto:ashar@dal.ca)    
+ &middot; 😄 Pronouns: he/him, il/lui     
 
  &middot; ⬅️ Some of my old projects: [Flik](https://flik.im/), [Respondr](https://devpost.com/software/respondr) @ Hack the North 2017 <br>
  &middot; ⏪ Previously [@cds-snc](https://github.com/cds-snc), [@ised-isde](https://github.com/ised-isde-canada), [@nrc-cnrc](https://github.com/nrc-cnrc), [@esdc-edsc](https://github.com/esdc-edsc) <br>
