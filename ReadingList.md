@@ -15,6 +15,7 @@
   
   <h2>For EDU / Work: </h2>
   <ul>
+  <li><a href="http://www.deanspade.net/mutual-aid-building-solidarity-during-this-crisis-and-the-next/">Mutual Aid: Building Solidarity During This Crisis (and the Next)</a> by Dean Spade</li>
   <li><a href="https://www.ubcpress.ca/opening-the-government-of-canada">Opening the Government of Canada</a> by Amanda Clarke</li>
   <li><a href="https://www.oreilly.com/library/view/seeking-sre/9781491978856/">Seeking SRE</a> by David N. Blank-Edelman</li>
   <li><a href="https://sre.google/books/">Site Reliability Engineering: How Google Runs Production Systems</a> by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy</li>
