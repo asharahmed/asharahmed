@@ -9,6 +9,8 @@
   &middot;
   <a href="https://blog.aahmed.ca/posts/"><strong>Blog</strong></a>
   &middot;
+  <a href="https://web.cs.dal.ca/~ashar/cv.pdf"><strong>CV</strong></a>
+  &middot;
   </p>
 </p>
 <p>
