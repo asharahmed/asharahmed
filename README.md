@@ -16,7 +16,7 @@
 <p>
  🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a>, currently interested in cloud, cybersecurity, and a11y practices.        
  
- 💬 Ask me about inclusive delivery, accessible standards or Halifax coffee shops!      
+ 💬 Ask me about inclusive delivery, accessible standards or cyber / systems security. 
  
  🤔 I’m looking for mentorship on modern cloud-native development and frameworks!     
  
