@@ -9,7 +9,7 @@
   </p>
   📖 Welcome to my reading list! 
   <br><br>
-  This is an incomplete list of books I am currently reading, either for work or personally.
+  This is an incomplete list of books I am currently reading / have read, either for work/education or personally.
   <br><br>
   <b>Note:</b> Most of these links are Indigo (Canada) links or direct from the author, where possible. 
   
