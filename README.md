@@ -16,7 +16,7 @@
   </p>
 </p>
 <p>
- 🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a>, currently interested in cloud, cybersecurity, and a11y practices.        
+ 🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a> with research interests in the areas in cloud, cybersecurity and digital governance.        
  
  💬 Ask me about inclusive delivery, accessible standards or cyber / systems security. 
  
