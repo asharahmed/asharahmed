@@ -24,7 +24,7 @@
   <li><a href="https://www.oreilly.com/library/view/cloud-native-devops/9781098116811/">Cloud Native DevOps with Kubernetes, 2nd Edition</a> by Justin Domingus, John Arundel</li>
   </ul>
   
-   <h2>Personally: </h2>
+   <h2>Personal: </h2>
    <ul>
    <li><a href="https://www.chapters.indigo.ca/en-ca/books/algorithms-to-live-by-the/9780143191612-item.html">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian and Tom Griffiths</li>
    <li><a href="https://www.chapters.indigo.ca/en-ca/books/strong-towns-a-bottom-up/9781119564812-item.html">Strong Towns: A Bottom-Up Revolution to Build American Prosperity</a> by Charles Marohn</li>
