@@ -18,7 +18,7 @@
 <p>
  🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a> with research interests in the areas in cloud, cybersecurity and digital governance.        
  
- 💬 Ask me about inclusive delivery, accessible standards or cyber / systems security. 
+ 💬 Ask me about critical infrastructure or cyber / systems security. 
  
  🤔 I’m looking for mentorship on modern cloud-native development and frameworks!     
  
