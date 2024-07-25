@@ -16,10 +16,8 @@
   </p>
 </p>
 <p>
- 🔭 I’m a developer and CS student at <a href="https://dal.ca">Dalhousie University</a> with research interests in the areas in cloud, cybersecurity and digital governance.      
- 
- 💬 I’m looking for mentorship on modern cloud-native development and frameworks     
- 
+ 🔭 I’m a developer, cyber security advisor, and public servant with prior service at various Canadian federal departments and agencies.
+  
  📫 How to reach me: [email me](mailto:ashar@dal.ca)       
    
  <p>
