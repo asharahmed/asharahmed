@@ -16,7 +16,7 @@
   </p>
 </p>
 <p>
- 🔭 I’m a cyber security advisor and public servant with prior service at various Canadian federal departments and agencies.
+ 🔭 I am a cyber security advisor and public servant with prior service at various Canadian federal departments and agencies.
   
  📫 How to reach me: [email me](mailto:ashar@dal.ca)       
    
