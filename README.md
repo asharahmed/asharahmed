@@ -8,7 +8,7 @@
   </p>
 </p>
 
-- 🔭 Cyber security advisor and public servant with expertise in information security, accessibility, and compliance.  
+- 🔭 Cyber security advisor and former public servant with expertise in information security, accessibility, and compliance.  
 - 💬 Ask me about cyber security, or implementing zero-trust principles.  
 - 📫 How to reach me: [email me](mailto:ashar@dal.ca).  
 
