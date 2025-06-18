@@ -16,12 +16,6 @@
 
 <h2>Professional Experience</h2>
 
-<h3>Member, Information and Communication Accessibility Committee</h3>
-<h4>Government of Nova Scotia</h4>
-<h5>Aug. 2024–Present</h5>
-
-- Developing standards to remove barriers to information access and ensure effective communication under the Accessibility Act.
-
 <h3>Cyber Security Advisor</h3>
 <h4>S.M. Ontario Medicine Professional Corporation</h4>
 <h5>2023–Present</h5>
