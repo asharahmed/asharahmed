@@ -13,6 +13,6 @@ I received a Master of Science in Cybersecurity and Information Assurance from W
 
 ### Contact
 
-- Website: [aahmed.org](https://aahmed.org)
+- Website: [aahmed.ca](https://aahmed.ca)
 - Email: `ashar [at] aahmed.ca`
 - PGP: [`FE07 2B0C 1183 94CF 9FC5 0DF5 1CBF 0085 8C3E 8CFD`](https://aahmed.org/pgp.asc)
